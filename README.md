@@ -6,16 +6,16 @@
 
 You need a working copy of npm, the package manager that comes bundled with [Node.js](https://nodejs.org/en/).
 
-Using npm, install ESLint:
+Using npm, install ESLint in your project repository:
 
 ```
-npm install -g eslint
+npm install -D eslint
 ```
 
 ## Installation
 Within a git repository, run the following command:
 ```sh
-curl -s https://raw.githubusercontent.com/hackreactor-labs/pomander/master/bin/install | bash
+curl -s https://raw.githubusercontent.com/beth/pomander/master/bin/install | bash
 ```
 
 ## Usage
